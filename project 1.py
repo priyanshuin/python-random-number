@@ -1,3 +1,4 @@
+#python random number
 import random
 import math as m
 while True:
